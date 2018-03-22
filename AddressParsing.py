@@ -1,3 +1,5 @@
+# Python 3.6.3 Anaconda
+# Virtual Environment
 import csv
 import library
 import re
