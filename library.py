@@ -861,8 +861,8 @@ districtListHCM = [["q10", "Quận 10"],
                    ["huyen\. HM", "Huyện Hóc Môn"]]
 
 cityList = [["Long Xuyên", "An Giang"],
-            ["Vũng Tàu", "Bà Rịa – Vũng Tàu"],
-            ["Bà Rịa", "Bà Rịa – Vũng Tàu"],
+            ["Vũng Tàu", "Bà Rịa - Vũng Tàu"],
+            ["Bà Rịa", "Bà Rịa - Vũng Tàu"],
             ["Thủ Dầu Một", "Bình Dương"],
             ["Đồng Xoài", "Bình Phước"],
             ["Phan Thiết", "Bình Thuận"],
