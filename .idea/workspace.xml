@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ed6fd45-9e1c-429a-94f2-cde885a51bf8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/AddressParsing.py" afterPath="$PROJECT_DIR$/AddressParsing.py" />
       <change beforePath="$PROJECT_DIR$/aggregatedList.csv" afterPath="$PROJECT_DIR$/aggregatedList.csv" />
-      <change beforePath="$PROJECT_DIR$/library.py" afterPath="$PROJECT_DIR$/library.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
