@@ -160,7 +160,7 @@ provinceList = ["An Giang",
 # Detect City Dictionary
 # cityList = [["Long Xuyen", "An Giang"],
 #             ["Vung Tau", "Ba Ria - Vung Tau"],
-#             ["Ba Ria", "Ba Ria – Vung Tau"],
+#             ["Ba Ria", "Ba Ria - Vung Tau"],
 #             ["Thu Dau Mot", "Binh Duong"],
 #             ["Dong Xoai", "Binh Phuoc"],
 #             ["Phan Thiet", "Binh Thuan"],
